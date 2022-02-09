@@ -1,0 +1,3 @@
+# MontyCarloSimulation
+Built a python program for Monty Carlo Simulation to estimates the probability of occurrence of an undeterminable event due to the involvement of random variables.
+ The algorithm relies on repeated random sampling in an attempt to determine the probability. This means simulating an event with random inputs a large number of times to obtain your estimation. You can determine other factors as well, and we will see that in the example. Monte Carlo simulations can be utilized in a broad range of fields spanning from economics, gambling, engineering, energy, and anything in-between.
